@@ -7,3 +7,4 @@ Reducing the number of variables of a data set naturally comes at the expense of
 So, to sum up, the idea of PCA is simple — reduce the number of variables of a data set, while preserving as much information as possible.
 
 
+[Tutorial For PCA](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
